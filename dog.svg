@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Dog illustration">
+  <rect width="800" height="520" rx="30" fill="#dce7ef"/>
+  <ellipse cx="400" cy="350" rx="190" ry="115" fill="#b78252"/>
+  <circle cx="400" cy="215" r="135" fill="#c79360"/>
+  <ellipse cx="280" cy="190" rx="55" ry="115" transform="rotate(-20 280 190)" fill="#8a5f3a"/>
+  <ellipse cx="520" cy="190" rx="55" ry="115" transform="rotate(20 520 190)" fill="#8a5f3a"/>
+  <circle cx="350" cy="210" r="13" fill="#222"/>
+  <circle cx="450" cy="210" r="13" fill="#222"/>
+  <ellipse cx="400" cy="255" rx="30" ry="22" fill="#222"/>
+  <path d="M400 275 Q400 315 360 315 M400 275 Q400 315 440 315" fill="none" stroke="#222" stroke-width="8" stroke-linecap="round"/>
+  <path d="M382 312 Q400 340 418 312" fill="#d47d7d"/>
+</svg>
